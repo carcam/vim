@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/carcam/code/acv/economia/plugins/user'
+let g:netrw_dirhist_2='/Users/carcam/code/acv/economia/plugins'
+let g:netrw_dirhist_3='/Users/carcam/code/acv/economia'
+let g:netrw_dirhist_4='/Users/carcam/code/acv/economia/component'
+let g:netrw_dirhist_5='/Users/carcam/code/acv/economia/component/site'
+let g:netrw_dirhist_6='/Users/carcam/code/acv/economia/component/site/layouts'
+let g:netrw_dirhist_7='/Users/carcam/code/acv/economia/component/site/layouts/material'
+let g:netrw_dirhist_8='/Users/carcam/code/structuralia/plg_rsfpstripe_structuralia/pruebastripe'

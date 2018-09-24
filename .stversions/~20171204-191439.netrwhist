@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/carcam/code/hepta/prestocck/component/administrator/models'
+let g:netrw_dirhist_2='/home/carcam/code/hepta/prestocck/component/administrator'
+let g:netrw_dirhist_3='/home/carcam/code/hepta/prestocck/component'
+let g:netrw_dirhist_4='/home/carcam/code/hepta/prestocck'
+let g:netrw_dirhist_5='/home/carcam/code/hepta/prestocck/component'
+let g:netrw_dirhist_6='/home/carcam/code/hepta/prestocck/component/administrator'
+let g:netrw_dirhist_7='/home/carcam/code/hepta/prestocck/component/administrator/sql'
+let g:netrw_dirhist_8='/home/carcam/code/hepta/prestocck/component/administrator'
+let g:netrw_dirhist_9='/home/carcam/code/hepta/prestocck/component/administrator/models'
